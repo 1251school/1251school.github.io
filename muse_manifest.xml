@@ -1,0 +1,41 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="1251.com" resolutions="1x" timestamp="1510201170825">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="test.css" crc="3862947187" ref="test"/>
+    <file name="index.css" crc="264424467" ref="index"/>
+    <file name="contacts.css" crc="262526143" ref="contacts"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacts:test"/>
+    <file name="museutils.js" crc="4232573551" ref="index:contacts:test"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contacts:test"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:contacts:test"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:contacts:test"/>
+    <file name="require.js" crc="4234670167" ref="index:contacts:test"/>
+  </folder>
+  <folder name="images">
+    <file name="link1.jpg" crc="4140228621" seo="true" ref="index:contacts:test">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="test" alt=""/>
+    </file>
+    <file name="link2.jpg" crc="4015104495" seo="true" ref="index:contacts:test">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="test" alt=""/>
+    </file>
+    <file name="141.jpg" crc="511184313" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v-0mp4.gif" crc="294890842" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="computer code wallpaper hd images pictures - becuo.jpg" crc="3984765481" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="22381532" seo="true" mt="1510192845291" redirect="true"/>
+  <file name="contacts.html" crc="495856626" seo="true" mt="1510192079879" redirect="true"/>
+  <file name="test.html" crc="3822570236" seo="true" mt="1510192100415" redirect="true"/>
+</manifest>
